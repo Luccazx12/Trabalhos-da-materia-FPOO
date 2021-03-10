@@ -1,0 +1,13 @@
+C:\Users\mario\OneDrive\Área de Trabalho\Senai\FPOO_1DM\Aula16_05_11_2020\Exercícios\C#\Exercício 2\obj\Debug\netcoreapp3.1\Exercício 2.csprojAssemblyReference.cache
+C:\Users\mario\OneDrive\Área de Trabalho\Senai\FPOO_1DM\Aula16_05_11_2020\Exercícios\C#\Exercício 2\obj\Debug\netcoreapp3.1\Exercício 2.AssemblyInfoInputs.cache
+C:\Users\mario\OneDrive\Área de Trabalho\Senai\FPOO_1DM\Aula16_05_11_2020\Exercícios\C#\Exercício 2\obj\Debug\netcoreapp3.1\Exercício 2.AssemblyInfo.cs
+C:\Users\mario\OneDrive\Área de Trabalho\Senai\FPOO_1DM\Aula16_05_11_2020\Exercícios\C#\Exercício 2\obj\Debug\netcoreapp3.1\Exercício 2.csproj.CoreCompileInputs.cache
+C:\Users\mario\OneDrive\Área de Trabalho\Senai\FPOO_1DM\Aula16_05_11_2020\Exercícios\C#\Exercício 2\bin\Debug\netcoreapp3.1\Exercício 2.exe
+C:\Users\mario\OneDrive\Área de Trabalho\Senai\FPOO_1DM\Aula16_05_11_2020\Exercícios\C#\Exercício 2\bin\Debug\netcoreapp3.1\Exercício 2.deps.json
+C:\Users\mario\OneDrive\Área de Trabalho\Senai\FPOO_1DM\Aula16_05_11_2020\Exercícios\C#\Exercício 2\bin\Debug\netcoreapp3.1\Exercício 2.runtimeconfig.json
+C:\Users\mario\OneDrive\Área de Trabalho\Senai\FPOO_1DM\Aula16_05_11_2020\Exercícios\C#\Exercício 2\bin\Debug\netcoreapp3.1\Exercício 2.runtimeconfig.dev.json
+C:\Users\mario\OneDrive\Área de Trabalho\Senai\FPOO_1DM\Aula16_05_11_2020\Exercícios\C#\Exercício 2\bin\Debug\netcoreapp3.1\Exercício 2.dll
+C:\Users\mario\OneDrive\Área de Trabalho\Senai\FPOO_1DM\Aula16_05_11_2020\Exercícios\C#\Exercício 2\bin\Debug\netcoreapp3.1\Exercício 2.pdb
+C:\Users\mario\OneDrive\Área de Trabalho\Senai\FPOO_1DM\Aula16_05_11_2020\Exercícios\C#\Exercício 2\obj\Debug\netcoreapp3.1\Exercício 2.dll
+C:\Users\mario\OneDrive\Área de Trabalho\Senai\FPOO_1DM\Aula16_05_11_2020\Exercícios\C#\Exercício 2\obj\Debug\netcoreapp3.1\Exercício 2.pdb
+C:\Users\mario\OneDrive\Área de Trabalho\Senai\FPOO_1DM\Aula16_05_11_2020\Exercícios\C#\Exercício 2\obj\Debug\netcoreapp3.1\Exercício 2.genruntimeconfig.cache
